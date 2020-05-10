@@ -113,21 +113,21 @@
 	                    <div class="form-group">
 	                        <label for="inputCode3" class="col-sm-5 col-sm-offset-2">Verification code</label>
 	                        <div class="col-sm-8 col-sm-offset-2">
-	                            <input class="form-control input-lg" id="inputCode" name="inputCode"
+	                            <input class="form-control input-lg" id="inputCode" name="inputCode" autocomplete="new-password"
 	                                placeholder="verification code">
 	                        </div>
 	                    </div>
 	                    <div class="form-group">
 	                        <label for="inputNewPwd3" class="col-sm-5 col-sm-offset-2">New password</label>
 	                        <div class="col-sm-8 col-sm-offset-2">
-	                            <input type="password" class="form-control input-lg" id="newPwd" name="newPwd"
+	                            <input type="password" class="form-control input-lg" id="newPwd" name="newPwd" autocomplete="new-password"
 	                                placeholder="new password">
 	                        </div>
 	                    </div>
 	                    <div class="form-group">
 	                        <label for="confirmPwd3" class="col-sm-5 col-sm-offset-2">Confirm the password</label>
 	                        <div class="col-sm-8 col-sm-offset-2">
-	                            <input type="password" class="form-control input-lg" id="confirmPwd" name="confirmPwd"
+	                            <input type="password" class="form-control input-lg" id="confirmPwd" autocomplete="new-password" name="confirmPwd"
 	                                placeholder="confirm your password">
 	                        </div>
 	                    </div>
