@@ -196,6 +196,9 @@
             </div>
         </div>
     </div>
+    <div class="footer" style=" position: absolute; bottom: 0px; left:50%; padding: auto;">
+        <p style="color: black; text-align: center; opacity: 0.6;">@Mandarin-Library</p>
+    </div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

@@ -347,6 +347,11 @@
                 </div>
             </div>
         </div>
+        <div class="footer" style="position: fixed; right: 0;
+    bottom: 0; left: 0;
+    right: 0; z-index: 999;">
+        <p style="color: black; text-align: center; opacity: 0.6;">@Mandarin-Library</p>
+    </div>
    </div>
         <!-- Bootstrap core JavaScript
     ================================================== -->
