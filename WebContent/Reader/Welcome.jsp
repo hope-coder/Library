@@ -91,7 +91,7 @@
                                 <li><a href="#" onclick="submitthree()">search autobiography</a></li>
                             </ul>
                         </li>
-                        <li><a href="./../index.jsp?logout=1>">Logout</a></li>
+                        <li><a href="./../index.jsp?logout=1">Logout</a></li>
                     </ul>
                     <div class="navbar-form navbar-right">
                         <input type="text" class="form-control" placeholder="Search..." name="search">
@@ -118,7 +118,7 @@
                     <p>Dear readers, you are welcome to use the Mandarin library, 
                     where you can inquire and reserve the books you want to borrow. 
                     You can also see the books you have borrowed and the fines you should pay</p>
-                    <p><a class="btn btn-primary btn-lg" href="#" role="button">Logout</a></p>
+                    <p><a class="btn btn-primary btn-lg" href="./../index.jsp?logout=1" role="button">Logout</a></p>
                 </div>
             </div>
         </div>

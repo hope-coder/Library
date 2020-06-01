@@ -150,13 +150,13 @@
                     document: reserve.submit();
                 }
             </script>
-            <!-- sreach代码端 -->
+            <!-- search代码端 -->
             <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
                 <div class="container"
                     style="padding: 0px 0px;  box-shadow: 0 0 0px 0px rgba(0, 0,0,1); border-radius: 15px;">
                     <div class="row">
                         <div class="jumbotron" style="padding-top: 30px;">
-                            <h2>Chack you account</h2>
+                            <h2>Check you account</h2>
                             <p class="lead">Here is your fine and the books you are currently borrowing. If there is any
                                 fine, please pay it at the library administrator as soon as possible. Otherwise, we will
                                 freeze your account</p>
@@ -257,7 +257,7 @@
                         <div class="col-lg-6" style="padding: 5px 5px; height: 400px;">
                             <div class="card shadow h-100 py-2 border-left-primary">
                                 <div class="card-body">
-                                    <h4 class="sub-header ">Here is the list of books</h4>
+                                    <h4 class="sub-header ">Books that have been borrowed</h4>
                                     <form action="#">
                                         <input type="hidden" name="bookid">
                                         <div class="table-responsive">
@@ -303,7 +303,7 @@
                         <div class="col-lg-6" style="padding: 5px 5px; height: 400px;">
                             <div class="card shadow h-100 py-2 border-left-primary" style="padding-top:0px;">
                                 <div class="card-body">
-                                    <h4 class="sub-header">Here is the list of books</h4>
+                                    <h4 class="sub-header">Books that have been returned</h4>
                                     <div class="table-responsive">
                                         <table class="table table-striped  table-bordered">
                                             <thead>
